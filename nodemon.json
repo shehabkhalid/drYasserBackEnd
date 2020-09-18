@@ -1,0 +1,4 @@
+{
+    "ignore":["client","node_modules","src/dataBase/migration"]
+
+}
